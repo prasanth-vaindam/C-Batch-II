@@ -1,3 +1,8 @@
+
 Recap:
 Introduction
 Variables Constants Literals
+--------
+What is a variable 
+Rules for variable names 
+Discussed few programs 
