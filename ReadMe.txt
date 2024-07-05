@@ -8,6 +8,7 @@ Students In this Batch:
 1. Abhilash 
 2. Adithya
 3. Chetan
+4. Nikitha
 
 Batch Start Date: 24th June 2024
 Duration : Minimum 45 Days

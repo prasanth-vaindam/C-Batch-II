@@ -52,5 +52,41 @@ dev c++, VS CODE, vim,  gcc, gcc -o ,
 Programs: Print Name of Your Country 
 WACP To Print Your Name, Your Family Members Names
 
+Day 5:
+Day 5 29-June-2024
+1)flow of execution
+2)difference between program and process
+3)what is variable and declaration 
+4)what is assignment and initialization 
+5)how to declare variables
+6)size of operator
+
+Day 6: 01-July-2024
+Character Set {A-Z, a-z, 0-9}
+Different types of Comments
+Abnormal Termination - 2 ways
+Format Specifiers - printf function
+Address of A  variable
+Introduction to Datatypes
+Introduction to Memory - Byte is the smallest unit of data that can be represented in memory
+
+Day 07: 02-July-2024
+--------------------
+#tokens
+types:
+1.identifiers
+2.keywords
+3.operators
+4.Punctuators (seperators)
+5.constants
+-------------------------------------
+Day 08: 03-July-2024
+---------------------
+1. How to Read Input from the user?
+2. WACP To Add two numbers
+3. WACP To Add two numbers given by the user
+4. WACP To Read All the details of user
+5. Introduction of memory address for character and integer and array
+6. Introduction on pointer and what is a pointer and array and array is a implicit pointer
 
 

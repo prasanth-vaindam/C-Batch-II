@@ -8,7 +8,10 @@ main(){
     printf("the address of age is %u\n", &age);
     
     char grade = 'A';
-    printf("grade: %d\n", grade);
+
+    float height = 5.11;
+    
+    printf("grade: %c\n", grade);
     printf("size of %c is %d bytes\n", grade, sizeof(age));
     printf("the address of grade is %u\n", &grade);
     
