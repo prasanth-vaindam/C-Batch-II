@@ -89,4 +89,21 @@ Day 08: 03-July-2024
 5. Introduction of memory address for character and integer and array
 6. Introduction on pointer and what is a pointer and array and array is a implicit pointer
 
+Day 09: 04-July-2024
+------------------------
+Day 09:05-July-2024
+--------------------------------
+1.What Is A Variable
+2.Recap on Variable
+3.Rules For naming a Variable
+4. Why c is called Strongly typed  
+5.  Program to add Two Numbers given by the user
+
+Day 10: July 06, 2024
+---------------------
+
+Arithmetic Operators 
+comparision oerator (==) operators
+if, if else demo,
+is_Even or Odd  Program using if else
 
