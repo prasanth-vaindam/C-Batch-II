@@ -118,6 +118,12 @@ Recap on Adding two numbers
 Introduction on Modifiers and will be continued
 Ranges of Data types 
 What's the meaning of %2d, %6.2f, or anything similar in C programming?
+are constants read only in c?
+In conclusion, the ‘constant’ is a data qualifier indicating that the compiler has to first decide in which segment will a variable be stored. If the qualifier finds out that the variable is a constant then it will qualify for it to be stored in a read only memory where it can’t be written.
+
+where are read only variables stored in memory and how do they work in C?
+Code segment is where the code is stored in the Read Only Memory meaning it is stored as a read only variable with fixed values thus no changes can be made to it. Stack segment. This is where all the local constant variables are stored.\
+https://www.quora.com/Where-are-the-constant-variables-stored-in-C#:~:text=Code%20segment%20is%20where%20the,local%20constant%20variables%20are%20stored.
 ---------
 The format string's format is %[flags][width][.precision][length]specifier. %2d will print the parameter right aligned as int with at least 2 characters. %6.2f will print the floating-point value with 2 decimal places and at least 6 characters in integer part.
 
