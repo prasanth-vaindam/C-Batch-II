@@ -132,3 +132,5 @@ In C programming, the % symbol is used as a format specifier in functions like p
 %d: This is used for printing integers. For example, %2d specifies that the integer should be padded with spaces on the left to make it at least 2 characters wide.
 %f: This is used for printing floating-point numbers. For example, %6.2f specifies that the floating-point number should be printed with a total width of 6 characters, including 2 decimal places.
 %6.2f: This is a combination of two format specifiers. The number 6 specifies the minimum field width, including the decimal point and any padding characters, while the number 2 after the decimal point specifies the number of digits to be printed after the decimal point.
+
+Day 
