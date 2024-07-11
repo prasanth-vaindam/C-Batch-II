@@ -108,3 +108,30 @@ if, if else demo,
 is_Even or Odd  Program using if else
 --------------------------------------
 
+Day 11: July 08, 2024
+---------------------------
+MSB - most siginificant bit used to store the sign value
+Even or Odd - Optimized (space)
+2 ways to Defining Constants in C are  using const keyword and #define directive 
+Number Systems Conversions {from Octal, binary, hexa decimal to decimal }
+Literals {integer, float (exponent form), character constants, string Literals }
+Recap on Adding two numbers
+Introduction on Modifiers and will be continued
+Ranges of Data types 
+What's the meaning of %2d, %6.2f, or anything similar in C programming?
+are constants read only in c?
+In conclusion, the ‘constant’ is a data qualifier indicating that the compiler has to first decide in which segment will a variable be stored. If the qualifier finds out that the variable is a constant then it will qualify for it to be stored in a read only memory where it can’t be written.
+
+where are read only variables stored in memory and how do they work in C?
+Code segment is where the code is stored in the Read Only Memory meaning it is stored as a read only variable with fixed values thus no changes can be made to it. Stack segment. This is where all the local constant variables are stored.\
+https://www.quora.com/Where-are-the-constant-variables-stored-in-C#:~:text=Code%20segment%20is%20where%20the,local%20constant%20variables%20are%20stored.
+---------
+The format string's format is %[flags][width][.precision][length]specifier. %2d will print the parameter right aligned as int with at least 2 characters. %6.2f will print the floating-point value with 2 decimal places and at least 6 characters in integer part.
+
+In C programming, the % symbol is used as a format specifier in functions like printf() and scanf() to define the format of the output or input. Here are a few common format specifiers and their meanings:
+
+%d: This is used for printing integers. For example, %2d specifies that the integer should be padded with spaces on the left to make it at least 2 characters wide.
+%f: This is used for printing floating-point numbers. For example, %6.2f specifies that the floating-point number should be printed with a total width of 6 characters, including 2 decimal places.
+%6.2f: This is a combination of two format specifiers. The number 6 specifies the minimum field width, including the decimal point and any padding characters, while the number 2 after the decimal point specifies the number of digits to be printed after the decimal point.
+
+Day 
