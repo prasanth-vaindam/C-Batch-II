@@ -134,4 +134,30 @@ In C programming, the % symbol is used as a format specifier in functions like p
 %f: This is used for printing floating-point numbers. For example, %6.2f specifies that the floating-point number should be printed with a total width of 6 characters, including 2 decimal places.
 %6.2f: This is a combination of two format specifiers. The number 6 specifies the minimum field width, including the decimal point and any padding characters, while the number 2 after the decimal point specifies the number of digits to be printed after the decimal point.
 
-Day 
+Day 12 July 09th, 2024
+----------------------
+Literals : String Literals 
+What is difference between Null Character and Null String
+What are Modifiers
+Revision on Basic Programs (Fundamentals Day 2:)
+Program to Find the Biggest Among the given Two Numbers Given By User
+
+Day 13 July 10th, 2024
+----------------------
+Introduction To Algorithms
+Defintion and Rules for Valid Algorithms
+{   
+    Well-Definied Instructions(Unambigous), 
+    It should be finished in Finite Time, 
+    The Outcome Should be determinsitc
+    It should be Valid 
+    ANd Efficient {space and Time}
+}
+Discussed the Homework program in class (Biggest of 2 numbers)
+
+Day 14 July 11th, 2024
+------------------------
+Discussed Homework Program (Is Postive and Negative)
+Typecasting 
+Syntax : (datatype) VaribleName;
+Difference between Float divison and Integer Division
