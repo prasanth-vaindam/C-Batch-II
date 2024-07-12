@@ -161,3 +161,9 @@ Discussed Homework Program (Is Postive and Negative)
 Typecasting 
 Syntax : (datatype) VaribleName;
 Difference between Float divison and Integer Division
+Arithmetic Operators
+
+Day 15 July 12th, 2024
+----------------------
+Operators
+
