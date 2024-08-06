@@ -165,5 +165,19 @@ Arithmetic Operators
 
 Day 15 July 12th, 2024
 ----------------------
-Operators
+Operators 
+Auto Increment 
+Auto Decrement
+Difference between Pre and Post Increment
+Type Casting 
+
+Day 16 July 13th, 2024
+----------------------
+WACP To Print the number if it is only negative number
+WACP To Compare two numbers 
+
+Day 17, 18, 19, 
+--------------------
+
+
 
